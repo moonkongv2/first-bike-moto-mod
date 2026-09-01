@@ -1,6 +1,6 @@
 # 01. 프로젝트 시작 — 퍼스트바이크를 오토바이처럼
 
-> 🎬 **완성 모습 먼저 보기:** 이 글은 제작 과정 기록이야. 완성된 모습이 궁금하다면 [Instagram Reel에서 짧은 영상 보기](https://www.instagram.com/reel/Dcsc5PiyJVf/).
+> 🎬 **완성 모습 먼저 보기:** 완성된 모습이 궁금하다면 [Instagram Reel에서 짧은 영상 보기](https://www.instagram.com/reel/Dcsc5PiyJVf/).
 
 아이(만3세)가 오토바이를 정말 좋아한다.
 
