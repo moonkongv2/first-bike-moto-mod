@@ -1,0 +1,7 @@
+title: First Bike Moto Mod
+description: A DIY motorcycle-inspired upgrade for a FirstBIKE balance bike.
+theme: jekyll-theme-cayman
+url: "https://moonkongv2.github.io"
+baseurl: "/first-bike-moto-mod"
+show_downloads: false
+markdown: kramdown
