@@ -13,7 +13,7 @@ A build log for a DIY project that adds motorcycle-inspired lights, sound, and c
 
 1. [Getting Started — Turning a FirstBIKE into a Little Motorcycle](01-start.html)
 2. [Prototyping the Circuit on a Breadboard](02-prototype.html)
-3. Building the Final Circuit — coming soon
+3. [Building the Circuit for the Bike](03-circuit-build.html)
 4. Enclosure & Installation — coming soon
 5. Final Build & Improvements — coming soon
 
