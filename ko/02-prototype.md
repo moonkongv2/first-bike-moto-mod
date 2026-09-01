@@ -172,7 +172,7 @@ LED ON
 여기까지 브레드보드에서 확인하면서 처음 생각했던 기능들이 최소한 전자회로 수준에서는 구현 가능하다는 확신이 생겼다.
 
 <p align="center">
-  <img src="../assets/images/02-breadboard-overview2.jpg" width="700">
+  <img src="../assets/images/02-breadboard-final.jpg" width="700">
 </p>
 
 <p align="center">
