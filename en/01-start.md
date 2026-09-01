@@ -1,5 +1,7 @@
 # 01. Getting Started — Turning a FirstBIKE into a Little Motorcycle
 
+> 🎬 **Want to see the finished bike first?** This post focuses on the build process. [Watch a short clip of the finished bike on Instagram](https://www.instagram.com/reel/Dcsc5PiyJVf/).
+
 My three-year-old is absolutely fascinated by motorcycles.
 
 Whenever we spot one while walking, we rarely just pass by. We usually stop, walk over, and spend a while looking at it up close. Lately, he has even started recognizing different motorcycle models.
