@@ -169,11 +169,11 @@ LED ON
 By this point, I had confirmed that the original idea was feasible, at least from the electronics side.
 
 <p align="center">
-  <img src="../assets/images/02-breadboard-overview2.jpg" width="700">
+  <img src="../assets/images/02-breadboard-final.jpg" width="700">
 </p>
 
 <p align="center">
-  <em>I kept the DFPlayer and its capacitor as close together as possible</em>
+  <em>Final version of the circuit on the breadboard</em>
 </p>
 
 

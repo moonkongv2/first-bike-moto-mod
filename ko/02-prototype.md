@@ -176,7 +176,7 @@ LED ON
 </p>
 
 <p align="center">
-  <em>DFPlayer와 capacitor는 최대한 가까이 배치했다</em>
+  <em>브레드보드에서의 최종 구성</em>
 </p>
 
 
