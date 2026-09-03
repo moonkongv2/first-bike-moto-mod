@@ -68,5 +68,8 @@ title: "04. 케이스와 자전거에 설치하기"
 
 다음 편에서는 최종 결과와 실제로 사용하면서 느낀 점, 그리고 개선하고 싶은 부분을 정리해보려고 한다.
 
-→ [05. 완성과 개선점](05-final.md)
+---
 
+[← 03. 실제 회로 제작](03-circuit-build.html) · [제작기 목록](index.html) · [05. 완성과 개선점 →](05-final.html)
+
+🌐 [English version](../en/04-enclosure.html)
