@@ -25,7 +25,6 @@ He even uses those clues to guess what a delivery rider is doing.
 
 To an adult, those clues may seem obvious—or easy to ignore because we normally do not pay much attention to them. But to him, they seem to be important signals for figuring out what is happening with a motorcycle.
 
-
 ## When the bicycle started becoming a motorcycle
 
 Naturally, that fascination found its way into his bike rides too.
@@ -46,7 +45,6 @@ That was the beginning of this project.
   <em>The FirstBIKE before any modifications</em>
 </p>
 
-
 ## The first features I had in mind
 
 I was not planning to build anything complicated at first.
@@ -63,7 +61,6 @@ The controls also needed to be simple enough for a child to understand, with a s
 **Switch ON → engine starts → light turns on**
 
 That became the basic goal for the build.
-
 
 ## How should I build it?
 
@@ -110,4 +107,8 @@ And, as expected, the very first prototype came with several problems to solve.
 
 In the next post, I'll go through the breadboard prototype and the process of getting the start-up sound and LEDs working together.
 
-→ [02. Prototyping the Circuit](02-prototype.md)
+---
+
+[Build log](index.html) · [02. Prototyping the Circuit →](02-prototype.html)
+
+🌐 [한국어 버전](../ko/01-start.html)
