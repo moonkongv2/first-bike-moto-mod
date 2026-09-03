@@ -23,16 +23,13 @@ But once I started trying to fit everything inside the enclosure, it was simply 
 
 So I switched to a **small 3.7 V lithium battery + 5 V DC-DC boost converter** instead.
 
-I also added a 2 A fuse for protection and a PWM dimmer so I could adjust the LED brightness.
-
 The enclosure would eventually have to hold roughly this set of parts:
 
 * Arduino Nano
 * DFPlayer Mini
 * DC-DC boost converter
 * Battery
-* Fuse
-* PWM dimmer
+* Speaker
 * Capacitors
 * Perfboard
 
@@ -42,7 +39,7 @@ The wiring itself was already decided on the schematic.
 
 The real question was **how to fit all of it inside a small ABS enclosure.**
 
-Parts such as the DC-DC converter and fuse holder did not look especially large on the circuit diagram, but once I put everything together, they took up much more space than I expected.
+Parts such as the DC-DC converter, connectors, and wiring did not look especially demanding on a circuit diagram, but once everything had to share the same small box, the available space disappeared quickly.
 
 I started looking for smaller alternatives and moved the Arduino and DFPlayer around on the perfboard several times while trying to find a layout that made sense.
 
@@ -98,4 +95,8 @@ For me, this turned out to be the harder part of the project.
 
 In the next post, I'll cover the ABS enclosure, external wiring, switch installation, waterproofing, and the work needed to actually mount everything on the bike.
 
-→ [04. Enclosure & Installation](04-enclosure.md)
+---
+
+[← 02. Prototyping the Circuit](02-prototype.html) · [Build log](index.html) · [04. Enclosure & Installation →](04-enclosure.html)
+
+🌐 [한국어 버전](../ko/03-circuit-build.html)
