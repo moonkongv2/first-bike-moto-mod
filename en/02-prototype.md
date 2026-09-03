@@ -62,7 +62,6 @@ For the first test, I deliberately left the switch out of the equation. I simply
 
 **Testing one thing at a time felt like the easiest way to isolate problems when something went wrong.**
 
-
 ## The first obstacle was not the circuit
 
 Ironically, the first thing that stopped me was not the wiring at all. It was the Arduino development setup.
@@ -176,7 +175,6 @@ By this point, I had confirmed that the original idea was feasible, at least fro
   <em>Final version of the circuit on the breadboard</em>
 </p>
 
-
 ## From breadboard prototype to a real bike circuit
 
 On a breadboard, long jumper wires and scattered components are not a problem.
@@ -193,4 +191,8 @@ And of course, a breadboard itself was never going to be mounted on the bike.
 
 In the next step, I will take the circuit that worked on the breadboard, choose the actual components for the final build, and solder everything onto a perfboard.
 
-→ [03. Building the Final Circuit](03-circuit-build.md)
+---
+
+[← 01. Getting Started](01-start.html) · [Build log](index.html) · [03. Building the Circuit →](03-circuit-build.html)
+
+🌐 [한국어 버전](../ko/02-prototype.html)
