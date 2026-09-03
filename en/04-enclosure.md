@@ -65,4 +65,8 @@ At this point, the build was functionally almost complete.
 
 In the final post, I'll wrap up the finished build, what I learned from actually using it, and what I would improve next time.
 
-→ [05. Final Build and Improvements](05-final.md)
+---
+
+[← 03. Building the Circuit](03-circuit-build.html) · [Build log](index.html) · [05. Final Build & Improvements →](05-final.html)
+
+🌐 [한국어 버전](../ko/04-enclosure.html)
