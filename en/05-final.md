@@ -94,4 +94,6 @@ It turned into a much more enjoyable DIY project than I expected.
 
 ---
 
-[← Back to the English build log](index.md)
+[← 04. Enclosure & Installation](04-enclosure.html) · [Build log](index.html)
+
+🌐 [한국어 버전](../ko/05-final.html)
